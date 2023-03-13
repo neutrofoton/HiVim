@@ -19,8 +19,8 @@ forward and backword by word
 w   # move forward by word
 W   # move forward by word with whitespace as word boundries
 
-b   # move forward by word
-B   # move forward by word with whitespace as word boundries
+b   # move backword by word
+B   # move backword by word with whitespace as word boundries
 ```
 
 begining - end of file
