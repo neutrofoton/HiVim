@@ -25,8 +25,8 @@ B   # move backword by word with whitespace as word boundries
 
 begining - end of file
 ``` bash
-gg   # move to the begining of file
-G    # move to the end of file
+gg or 1gg  # move to the begining of file
+G  or $G  # move to the end of file
 ```
 
 Go to line:
