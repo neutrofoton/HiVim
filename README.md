@@ -45,3 +45,13 @@ Go to line:
     ``` bash
     :$<ENTER> # example :$<ENTER>
     ```
+
+## Ruler
+``` bash
+:set ruler!<ENTER> #enable ruler
+
+# then
+ctrl-g #show the ruler of current cursor position
+
+:set noruler! #disable ruler
+```
